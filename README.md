@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:02.12.2024
+## Register Number:24901074
+## Name:Ezhilarasi N
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,115 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1. Seamless Alumni Registration and Profile Management
+Feature: Easy-to-use registration and profile management system across web and mobile platforms, allowing alumni to join the association, update their information, and maintain lifelong access to the network.
+ 2. Philanthropy and Donation Portal
+Feature: Secure and streamlined donation mechanism, allowing alumni to contribute towards the college’s projects, scholarships, and other initiatives.
+ 3. Networking Hub for Career and Personal Growth
+Feature: A dedicated space for alumni to connect based on professional fields, personal interests, and geographic locations.
+ 4. Job Portal for Career Opportunities
+Feature: Integration of job posting, search, and application tools, enabling alumni to find career opportunities and post job openings within the alumni network.
+ 5. Alumni Directory with Advanced Search
+Feature: Searchable directory with filtering options for criteria like graduation year, field of study, industry, and location.
+ 6. Tracking and Showcasing Success Stories
+Feature: A platform to celebrate alumni achievements and contributions to society, showcasing success stories, awards, and notable career milestones.
+ 7. Events and Reunions Management
+Feature: Tools for announcing, registering, and managing alumni events, reunions, and professional development sessions
+ 8. Real-Time Feedback and Surveys
+Feature: Channels for alumni to share feedback, participate in surveys, and offer suggestions to improve alumni services and programs
+9. Mobile-First Approach for Enhanced Accessibility
+Feature: Optimized mobile application alongside the web platform, providing alumni with convenient, on-the-go access to all functionalities.
+ 10. Career Advancement and Professional Development Resources
+Feature: Access to mentorship programs, industry webinars, and skill-building resources (e.g., certifications, workshops).
+ 11. Alumni Social and Special Interest Groups
+Feature: Ability to create or join specialized groups based on shared interests, such as sports, technology, entrepreneurship, etc.
+ 12. Recognition Wall for Alumni Contributions
+Feature: A "wall" or feed highlighting alumni contributions to the community, industry, or society, with the ability to nominate others or share achievements.
+ 13. Interactive Donation and Volunteer Tracking
+Feature: A system to track alumni donations, volunteer hours, and social impact, with rewards for active involvement.
+ 14. Alumni-Led Scholarship Programs
+Feature: Alumni can contribute directly to scholarships and grants that support current students, particularly in fields of interest or need
+ 15. Real-Time Analytics for Engagement and Impact
+Feature: A dashboard for alumni association leaders to monitor engagement levels, donations, and career success metrics in real time.
+ 16. Exclusive Alumni Content Library
+Feature: Access to a curated library of exclusive content for alumni, including lectures, podcasts, e-books, and research papers.
+ 17. Customizable Alumni Profiles and Badges
+Feature: Alumni can customize their profiles, display career achievements, and earn badges for various milestones (e.g., years since graduation, mentorship participation).
+ 18. Smart Event Suggestions Based on Interests
+Feature: AI-based event recommendation system that suggests alumni events, workshops, and networking opportunities based on the alumni’s profile and interests.
 
 
 ## Proposed Solution / Architecture Diagram
 
+![alt text](<Screenshot 2024-12-01 151808.png>)
 
 ## Use Cases
 
+![alt text](<Screenshot 2024-12-01 162603.png>)
 
 ## Technology Stack
 
+React.js (Web) & React Native (Mobile) 
+Node.js & Express
+MongoDB 
+JWT (JSON Web Tokens) 
+AWS 
+Socket.io
+Stripe 
+Elasticsearch 
+Firebase Cloud Messaging
+Google Analytics 
+Git 
+
 
 ## Dependencies
+
+React.js (Web), React Native (Mobile)
+Time: 30 days
+Budget: Rs. 10,000
+
+Node.js, Express
+Time: 20 days
+Budget: Rs. 10,000
+
+MongoDB
+Time: 18 days
+Budget: Rs. 9,000
+
+JWT
+Time: 12 days
+Budget: Rs. 8,000
+
+AWS (EC2, S3, RDS)
+Time: 15 days
+Budget: Rs. 8,500
+
+Socket.io
+Time: 15 days
+Budget: Rs. 5,000
+
+Stripe
+Time: 12 days
+Budget: Rs. 5,000
+
+Elasticsearch
+Time: 14 days
+Budget: Rs. 7,000
+
+Firebase Cloud Messaging
+Time: 11 days
+Budget: Rs. 6,000
+
+Google Analytics
+Time: 10 days
+Budget: Rs. 4,000
+
+Heroku
+Time: 12 days
+Budget: Rs. 5,000
+
+Git
+Time: 5 days
+Budget: Rs. 5,000
+
 
